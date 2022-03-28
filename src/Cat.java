@@ -22,6 +22,13 @@ public class Cat {
     public void eat() {
         weight += 50;
     }
+    public void pee() {
+        weight -= 20;
+    }
+
+    public void eat() {
+        weight += 50;
+    }
 
 }
 
